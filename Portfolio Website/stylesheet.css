@@ -44,30 +44,9 @@
     color: white;
 }
 
-#laptop {
+.setup {
     background-color: blanchedalmond;
-}
-
-#mouse {
-    background-color: blanchedalmond;
-}
-
-#phone {
-    background-color: blanchedalmond;
-}
-
-#usb {
-    background-color: blanchedalmond;
-}
-
-#earphones {
-    background-color: blanchedalmond;
-}
-
-#lap-set {
-    background-color: grey;
-    color: white;
-}
+  }
 
 #copyright {
     background-color: gray;
