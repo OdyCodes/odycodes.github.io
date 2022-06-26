@@ -1,0 +1,99 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#banner {
+    background-image: url(./!backround.jpg);
+    background-size: cover;
+    background-position: bottom center;
+    height: 200px;
+    width: 100%;
+}
+
+#banner-name {
+    border: solid 3px white;
+    position: relative;
+    top: 50px;
+    width: 400px;
+    margin: 0 auto;
+    color: bisque;
+    text-align: center;
+  }
+
+#navigation {
+    border: solid 5px white;
+    position: relative;
+}
+
+#nav-pg {
+    border: solid 5px aquamarine;
+    position: relative;
+}
+
+#navigation-text {
+    color: aqua;
+    position: relative;
+}
+
+#about-me {
+    background-color: blanchedalmond;
+}
+
+#about-me h2 {
+    background-color: grey;
+    color: white;
+}
+
+#laptop {
+    background-color: blanchedalmond;
+}
+
+#mouse {
+    background-color: blanchedalmond;
+}
+
+#phone {
+    background-color: blanchedalmond;
+}
+
+#usb {
+    background-color: blanchedalmond;
+}
+
+#earphones {
+    background-color: blanchedalmond;
+}
+
+#lap-set {
+    background-color: grey;
+    color: white;
+}
+
+#copyright {
+    background-color: gray;
+    color: white;
+}
+
+#portfolio {
+    background-color: blanchedalmond;
+}
+
+#voting-system {
+    background-color: blanchedalmond;
+}
+
+#to-do-list {
+    background-color: blanchedalmond;
+}
+
+#contacts {
+    background-color: blanchedalmond;
+}
+
+#calculator {
+    background-color: blanchedalmond;
+}
+
+#soon {
+    background-color: blanchedalmond;
+}
