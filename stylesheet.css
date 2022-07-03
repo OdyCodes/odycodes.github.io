@@ -3,7 +3,7 @@
 }
 
 #banner {
-    background-image: url(./!backround.jpg);
+    background-image: url("https://raw.githubusercontent.com/OdyCodes/portfolio-website/mother-board/!backround.jpg");
     background-size: cover;
     background-position: bottom center;
     height: 200px;
