@@ -1,5 +1,5 @@
 # About me
-I'm Odysseus, a middle school student in Greece. My goal is to become a full-stack developer. I'm learning Python, HTML, CSS, and more to come.
+I'm Odysseus, a middle school student in Greece. My goal is to become a full-stack developer. I'm learning Python, HTML, CSS, C++, and more to come.
 
 # About this repo
 This is a my website repo. I will try and upgrade it as I expand my knowledge.
