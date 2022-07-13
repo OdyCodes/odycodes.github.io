@@ -3,7 +3,7 @@
 }
 
 #banner {
-    background-image: url("Photos/backround.jpg");
+    background-image: url("./Photos/backround.jpg");
     background-size: cover;
     background-position: bottom center;
     height: 200px;
