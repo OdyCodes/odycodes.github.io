@@ -3,7 +3,7 @@
 }
 
 #banner {
-    background-image: url(./Photos/backround.jpg);
+    background-image: url(./Photos/background.jpg);
     background-size: cover;
     background-position: bottom center;
     height: 200px;
@@ -44,9 +44,18 @@
     color: white;
 }
 
+#skills {
+    background-color: blanchedalmond;
+}
+
+#skills h2 {
+    background-color: grey;
+    color: white;
+}
+
 .setup {
     background-color: blanchedalmond;
-  }
+}
 
 #copyright {
     background-color: gray;
@@ -57,34 +66,93 @@
     background-color: blanchedalmond;
 }
 
+#portfolio h2 {
+    background-color: gray;
+    color: white;
+}
+
 #voting-system {
     background-color: blanchedalmond;
+}
+
+#voting-system h2 {
+    background-color: gray;
+    color: white;
 }
 
 #to-do-list {
     background-color: blanchedalmond;
 }
 
+#to-do-list h2 {
+    background-color: gray;
+    color: white;
+}
+
 #contacts {
     background-color: blanchedalmond;
+}
+
+#contacts h2 {
+    background-color: gray;
+    color: white;
 }
 
 #calculator {
     background-color: blanchedalmond;
 }
 
+#calculator h2 {
+    background-color: gray;
+    color: white;
+}
+
 #soon {
     background-color: blanchedalmond;
+}
+
+#soon h2 {
+    background-color: gray;
+    color: white;
 }
 
 #HTML {
     background-color: blanchedalmond;
 }
 
+#HTML h2 {
+    background-color: gray;
+    color: white;
+}
+
 #CSS {
     background-color: blanchedalmond;
 }
 
+#CSS h2 {
+    background-color: gray;
+    color: white;
+}
+
 #Python {
     background-color: blanchedalmond;
+}
+
+#Python h2 {
+    background-color: gray;
+    color: white;
+}
+
+#my-laptop-setup h2 {
+    background-color: gray;
+    color: white;
+}
+
+#contact {
+    background-color: blanchedalmond;
+}
+
+#contact h2 {
+    background-color: grey;
+    color: white;
 }
