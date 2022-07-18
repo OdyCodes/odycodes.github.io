@@ -3,7 +3,7 @@
 }
 
 #banner {
-    background-image: url("./Photos/backround.jpg");
+    background-image: url(https://raw.githubusercontent.com/OdyCodes/portfolio-website/mother-board/Photos/backround.jpg);
     background-size: cover;
     background-position: bottom center;
     height: 200px;
@@ -16,7 +16,7 @@
     top: 50px;
     width: 400px;
     margin: 0 auto;
-    color: green;
+    color: bisque;
     text-align: center;
   }
 
@@ -74,5 +74,17 @@
 }
 
 #soon {
+    background-color: blanchedalmond;
+}
+
+#HTML {
+    background-color: blanchedalmond;
+}
+
+#CSS {
+    background-color: blanchedalmond;
+}
+
+#Python {
     background-color: blanchedalmond;
 }
