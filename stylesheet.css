@@ -35,24 +35,6 @@
     position: relative;
 }
 
-#about-me {
-    background-color: blanchedalmond;
-}
-
-#about-me h2 {
-    background-color: grey;
-    color: white;
-}
-
-#skills {
-    background-color: blanchedalmond;
-}
-
-#skills h2 {
-    background-color: grey;
-    color: white;
-}
-
 .setup {
     background-color: blanchedalmond;
 }
@@ -62,97 +44,11 @@
     color: white;
 }
 
-#portfolio {
-    background-color: blanchedalmond;
-}
-
-#portfolio h2 {
+.header h2 {
     background-color: gray;
     color: white;
 }
 
-#voting-system {
+.header {
     background-color: blanchedalmond;
-}
-
-#voting-system h2 {
-    background-color: gray;
-    color: white;
-}
-
-#to-do-list {
-    background-color: blanchedalmond;
-}
-
-#to-do-list h2 {
-    background-color: gray;
-    color: white;
-}
-
-#contacts {
-    background-color: blanchedalmond;
-}
-
-#contacts h2 {
-    background-color: gray;
-    color: white;
-}
-
-#calculator {
-    background-color: blanchedalmond;
-}
-
-#calculator h2 {
-    background-color: gray;
-    color: white;
-}
-
-#soon {
-    background-color: blanchedalmond;
-}
-
-#soon h2 {
-    background-color: gray;
-    color: white;
-}
-
-#HTML {
-    background-color: blanchedalmond;
-}
-
-#HTML h2 {
-    background-color: gray;
-    color: white;
-}
-
-#CSS {
-    background-color: blanchedalmond;
-}
-
-#CSS h2 {
-    background-color: gray;
-    color: white;
-}
-
-#Python {
-    background-color: blanchedalmond;
-}
-
-#Python h2 {
-    background-color: gray;
-    color: white;
-}
-
-#my-laptop-setup h2 {
-    background-color: gray;
-    color: white;
-}
-
-#contact {
-    background-color: blanchedalmond;
-}
-
-#contact h2 {
-    background-color: grey;
-    color: white;
 }
